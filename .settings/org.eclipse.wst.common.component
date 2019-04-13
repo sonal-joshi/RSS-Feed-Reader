@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="RSS-Feed-Reader">
+    <wb-module deploy-name="RSSFeedCP">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="RSS-Feed-Reader"/>
-        <property name="java-output-path" value="/RSS-Feed-Reader/build/classes"/>
+        <property name="context-root" value="RSSFeedCP"/>
+        <property name="java-output-path" value="/RSSFeedCP/build/classes"/>
     </wb-module>
 </project-modules>
