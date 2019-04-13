@@ -13,7 +13,7 @@ public class MainReader {
 	for (Feed message : array.getMessages()) {
         System.out.println(message.getTitle());
         
-    }
+    } 
 	
 	
 	}	

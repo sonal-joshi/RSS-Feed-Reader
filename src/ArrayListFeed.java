@@ -19,7 +19,7 @@ public class ArrayListFeed {
         this.description = description;
         this.language = language;
         this.copyright = copyright;
-        this.pubDate = pubDate;
+        this.pubDate = pubDate;   
     }
 
     public List<Feed> getMessages() {

@@ -22,7 +22,7 @@ public class Feed {
 		this.title=title;
 	}
 	
-	public String getDescription() {
+	public String getDescription() { 
 		return title;
 	}
 	
